@@ -1,0 +1,18 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+:wq
+
+ls
+:wq
+ZZ
+:wq
+:q
+:x
+:q
+exit
+ZZ
+I
+ZZ
